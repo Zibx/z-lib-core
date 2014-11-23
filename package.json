@@ -1,6 +1,6 @@
 {
   "name": "z-lib-core",
-  "version": "0.0.7",
+  "version": "0.0.1",
   "description": "core of lib",
   "main": "lib/z-core.js",
   "scripts": {
